@@ -1,0 +1,8 @@
+{
+  "name": "incognito",
+  "version": "0.1.0",
+  "description": "One command swaps every Claude Code session title and sidebar group name for a neutral alias so you can screen-share; run it again to restore.",
+  "author": { "name": "oved160" },
+  "repository": "https://github.com/oved160/incognito-mod",
+  "license": "MIT"
+}

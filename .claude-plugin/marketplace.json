@@ -1,0 +1,5 @@
+{
+  "name": "incognito-mod",
+  "owner": { "name": "oved160" },
+  "plugins": [{ "name": "incognito", "source": "./" }]
+}
